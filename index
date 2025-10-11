@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Account Deletion Request</title>
+</head>
+<body>
+  <h1>Account and Data Deletion Request</h1>
+  <p>
+    To request deletion of your account and all associated data, please send an email to:
+    <strong>your-email@example.com</strong>
+  </p>
+  <p>
+    In your request, please include your registered email address or username so we can verify your identity.
+  </p>
+  <p>
+    Once verified, we will delete your data within 7 days.
+  </p>
+</body>
+</html>
